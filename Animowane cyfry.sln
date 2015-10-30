@@ -11,12 +11,12 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "js", "js", "{5C51D2CA-0A8F-43EC-B402-45750A13D516}"
 	ProjectSection(SolutionItems) = preProject
 		functions.js = functions.js
-		..\..\..\..\Downloads\jquery-2.1.4.min.js = ..\..\..\..\Downloads\jquery-2.1.4.min.js
+		..\..\..\..\Downloads\jquery 1.8.3.min.js = ..\..\..\..\Downloads\jquery 1.8.3.min.js
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "animacja", "animacja", "{EC8ACAE3-6329-4E14-B07E-9048F1B8BD6C}"
 	ProjectSection(SolutionItems) = preProject
-		HTMLPage1.html = HTMLPage1.html
+		animacja.html = animacja.html
 	EndProjectSection
 EndProject
 Global
