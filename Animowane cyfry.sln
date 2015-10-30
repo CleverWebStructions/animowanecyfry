@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "css", "css", "{F5610A91-A408-40C5-9E8A-9D90D767E9D3}"
+	ProjectSection(SolutionItems) = preProject
+		StyleSheet1.css = StyleSheet1.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "js", "js", "{5C51D2CA-0A8F-43EC-B402-45750A13D516}"
+	ProjectSection(SolutionItems) = preProject
+		Script1.js = Script1.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "animacja", "animacja", "{EC8ACAE3-6329-4E14-B07E-9048F1B8BD6C}"
+	ProjectSection(SolutionItems) = preProject
+		HTMLPage1.html = HTMLPage1.html
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F5610A91-A408-40C5-9E8A-9D90D767E9D3} = {EC8ACAE3-6329-4E14-B07E-9048F1B8BD6C}
+		{5C51D2CA-0A8F-43EC-B402-45750A13D516} = {EC8ACAE3-6329-4E14-B07E-9048F1B8BD6C}
+	EndGlobalSection
+EndGlobal
